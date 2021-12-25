@@ -1,5 +1,7 @@
 # Media_Mix_model_WebApp_Pycaret
 
+** Web Link of the APP online: https://share.streamlit.io/marcello-calabrese/media_mix_model_webapp_pycaret/main/app.py
+
 - This app predicts sales on media mix spend for different media channels. 
 - Before the prediction, we apply a saturated spending function to the marketing spend vector.
 - The machine learning model used is the ExtraTreeRegression model.
